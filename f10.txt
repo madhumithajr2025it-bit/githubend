@@ -1,3 +1,5 @@
 Github fetch
 Github push
 Github pull
+github merge
+Origin master
